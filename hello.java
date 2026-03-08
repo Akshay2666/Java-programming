@@ -5,6 +5,6 @@ package Java-programming;
     System.out.print("hello");
     int a=10;
     int b=20;
-    System.out.print(a+b);
+    System.out.print(a*b);
    } 
 }
